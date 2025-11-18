@@ -1,0 +1,40 @@
+
+==== POST #1 ====
+{"fullName":"Aarav Sharma","email":"aarav.sharma@gmail.com","phone":"9876543210","branch":"CSE","yop":2023,"active":true}
+{"id":1,"fullName":"Aarav Sharma","email":"aarav.sharma@gmail.com","phone":"9876543210","branch":"CSE","yop":2023,"active":true,"createdAt":"2025-11-18T20:54:39.859937","updatedAt":"2025-11-18T20:54:39.859937"}
+
+==== POST #2 ====
+{"fullName":"Priya Iyer","email":"priya.iyer@outlook.com","phone":"9123456780","branch":"ECE","yop":2022,"active":true}
+{"id":2,"fullName":"Priya Iyer","email":"priya.iyer@outlook.com","phone":"9123456780","branch":"ECE","yop":2022,"active":true,"createdAt":"2025-11-18T20:54:40.039837","updatedAt":"2025-11-18T20:54:40.039837"}
+
+==== POST #3 ====
+{"fullName":"Rohan Mehta","email":"rohan.mehta@yahoo.com","phone":"9812233445","branch":"MECH","yop":2021,"active":true}
+{"id":3,"fullName":"Rohan Mehta","email":"rohan.mehta@yahoo.com","phone":"9812233445","branch":"MECH","yop":2021,"active":true,"createdAt":"2025-11-18T20:54:40.209499","updatedAt":"2025-11-18T20:54:40.209499"}
+
+==== POST #4 ====
+{"fullName":"Sneha Patel","email":"sneha.patel@gmail.com","phone":"9898765432","branch":"IT","yop":2024,"active":true}
+{"id":4,"fullName":"Sneha Patel","email":"sneha.patel@gmail.com","phone":"9898765432","branch":"IT","yop":2024,"active":true,"createdAt":"2025-11-18T20:54:40.2717","updatedAt":"2025-11-18T20:54:40.2717"}
+
+==== POST #5 ====
+{"fullName":"Vikram Singh","email":"vikram.singh@outlook.com","phone":"9955122233","branch":"CIVIL","yop":2020,"active":true}
+{"id":5,"fullName":"Vikram Singh","email":"vikram.singh@outlook.com","phone":"9955122233","branch":"CIVIL","yop":2020,"active":true,"createdAt":"2025-11-18T20:54:40.343628","updatedAt":"2025-11-18T20:54:40.343628"}
+
+==== POST #6 ====
+{"fullName":"Ananya Rao","email":"ananya.rao@yahoo.com","phone":"9789012345","branch":"CSE","yop":2019,"active":true}
+{"id":6,"fullName":"Ananya Rao","email":"ananya.rao@yahoo.com","phone":"9789012345","branch":"CSE","yop":2019,"active":true,"createdAt":"2025-11-18T20:54:40.392794","updatedAt":"2025-11-18T20:54:40.392794"}
+
+==== POST #7 ====
+{"fullName":"Kabir Verma","email":"kabir.verma@gmail.com","phone":"9933445566","branch":"ECE","yop":2025,"active":true}
+{"id":7,"fullName":"Kabir Verma","email":"kabir.verma@gmail.com","phone":"9933445566","branch":"ECE","yop":2025,"active":true,"createdAt":"2025-11-18T20:54:40.440153","updatedAt":"2025-11-18T20:54:40.440153"}
+
+==== POST #8 ====
+{"fullName":"Meera Kulkarni","email":"meera.kulkarni@outlook.com","phone":"9822113344","branch":"IT","yop":2018,"active":true}
+{"id":8,"fullName":"Meera Kulkarni","email":"meera.kulkarni@outlook.com","phone":"9822113344","branch":"IT","yop":2018,"active":true,"createdAt":"2025-11-18T20:54:40.487738","updatedAt":"2025-11-18T20:54:40.487738"}
+
+==== POST #9 ====
+{"fullName":"Devika Nair","email":"devika.nair@yahoo.com","phone":"9977001122","branch":"CIVIL","yop":2023,"active":true}
+{"id":9,"fullName":"Devika Nair","email":"devika.nair@yahoo.com","phone":"9977001122","branch":"CIVIL","yop":2023,"active":true,"createdAt":"2025-11-18T20:54:40.53393","updatedAt":"2025-11-18T20:54:40.53393"}
+
+==== POST #10 ====
+{"fullName":"Arjun Desai","email":"arjun.desai@gmail.com","phone":"9966554433","branch":"MECH","yop":2024,"active":true}
+{"id":10,"fullName":"Arjun Desai","email":"arjun.desai@gmail.com","phone":"9966554433","branch":"MECH","yop":2024,"active":true,"createdAt":"2025-11-18T20:54:40.57986","updatedAt":"2025-11-18T20:54:40.57986"}
