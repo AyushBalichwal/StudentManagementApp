@@ -15,10 +15,9 @@ A Spring Boot 3 application for managing student records with REST APIs, JPA per
 8. [Running the Application](#running-the-application)
 9. [API Documentation](#api-documentation)
 10. [Sample Payloads](#sample-payloads)
-11. [Screenshots](#screenshots)
-12. [Error Handling](#error-handling)
-13. [Testing](#testing)
-14. [Future Roadmap](#future-roadmap)
+11. [Error Handling](#error-handling)
+12. [Testing](#testing)
+13. [Future Roadmap](#future-roadmap)
 
 ---
 
@@ -177,9 +176,6 @@ PATCH /api/students/2
   "branch": "IT"
 }
 ```
-
-## Screenshots
-> *(Add screenshots of Postman calls or UI dashboards here.)*
 
 ## Error Handling
 ### Resource Not Found
