@@ -3,7 +3,7 @@
 A Spring Boot 3 application for managing student records with REST APIs, JPA persistence, validation, and MySQL integration. Built with production readiness in mind, following patterns from Spring Boot, Netflix OSS, and Google engineering style guides.
 
 ---
-
+ 
 ## Table of Contents
 1. [Overview](#overview)
 2. [Architecture](#architecture)
